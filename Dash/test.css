@@ -1,0 +1,6 @@
+#checklist-selected-style
+  .custom-control-input:checked
+  ~ .custom-control-label::before {
+  background-color: #fa7268;
+  border-color: #ea6258;
+}
